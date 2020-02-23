@@ -170,7 +170,6 @@ usage-us-fy2015.myhomescreen.tv
 usage-us-fy2017.myhomescreen.tv
 vd.emp.prd.s3.amazonaws.com
 vdterms.samsungcloudsolution.com
-www.ecdinterface.philips.com
 www.etracker.de
 www.google-analytics.com
 www.samsungotn.net
