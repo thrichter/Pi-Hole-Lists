@@ -416,7 +416,6 @@ ios.bugly.qq.com
 ios.noahapps.jp
 ir-na.amazon-adsystem.com
 js.braintreegateway.com
-js.stripe.com
 juicyads.com
 kau.li
 ketads.com
@@ -452,8 +451,6 @@ lps.innogames.com
 lps.innogamescdn.com
 m.everyplay.com
 m.quantcount.com
-m.stripe.com
-m.stripe.network
 m2pub.com
 mads.com
 madsone.com
