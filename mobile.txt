@@ -618,7 +618,6 @@ sparta.qb.mig.tencent-cloud.net
 sponsorpay.com
 ssl.google-analytics.com
 st.bebi.com
-star.c10r.facebook.com
 startapp.com
 startappexchange.com
 startappservice.com
