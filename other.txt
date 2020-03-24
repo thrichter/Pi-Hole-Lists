@@ -219,7 +219,6 @@ expressusenet.site
 extremetracking.com
 f.badoo.com
 famo.us
-fast.wistia.com
 fb-app-stalker.com
 fb-besuchen.com
 feadrope.net
@@ -545,7 +544,6 @@ vvd-emp-prd.s3.amazonaws.com
 wasshimundme.ru
 web.addealsnetwork.com
 webcdn.desktopware.com
-webimg.secondhandapp.com
 webview.unityads.unity3d.com
 weequizz.com
 wellmov.com
@@ -627,6 +625,7 @@ www.spooner-motorsport.com
 www.spyoff.com
 www.ssmobi.top
 www.stack-sonar.com
+www.startfenster.de
 www.sunmaker.com
 www.system-scan94.top
 www.taschengeld.com
@@ -638,6 +637,7 @@ www.ups-media.com
 www.usenetnl.icu
 www.vavoo.tv
 www.visit-x.net
+www.vlc.de
 www.vshkypld.com
 www.vungle.com
 www.welzgxwtvto.bid
@@ -659,5 +659,3 @@ zd.map.fastly.net
 zeag.locationpralognan.fr
 zinspilot.de
 zononi.com
-www.startfenster.de
-www.vlc.de
