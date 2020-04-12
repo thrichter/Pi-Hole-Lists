@@ -258,6 +258,7 @@ cj.com
 clickfuse.com
 clickmngr.com
 clickterra.net
+client-analytics.braintreegateway.com
 client-api.matchinguu.com
 client.rave-api.com
 clk1004.com
@@ -415,7 +416,6 @@ interseek.si
 ios.bugly.qq.com
 ios.noahapps.jp
 ir-na.amazon-adsystem.com
-js.braintreegateway.com
 juicyads.com
 kau.li
 ketads.com
