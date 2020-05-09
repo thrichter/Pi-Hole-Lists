@@ -65,8 +65,6 @@ gpm.samsungqbe.com
 hbbtv-1.eurosport.com
 hbbtv-extern-fe01.sim-technik.de
 hbbtv-track.redbutton.de
-hbbtv.3sat.de
-hbbtv.ardmediathek.de
 hbbtv.kabeleins.de
 hbbtv.prosieben.de
 hbbtv.qvc.de
@@ -75,7 +73,6 @@ hbbtv.rtl2.de
 hbbtv.sat1.de
 hbbtv.sixx.de
 hbbtv.superrtl.de
-hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
 i-stream.pl
@@ -83,7 +80,6 @@ ibis.lgappstv.com
 ichnaea.netflix.com
 infolink.pavv.co.k
 infolink.pavv.co.kr
-itv.ard.de
 lcprd1.samsungcloudsolution.net
 lcstg2.samsungcloudsolution.net
 legacyportal.nettvservices.com
